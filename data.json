@@ -1,0 +1,38 @@
+{
+	"details":[
+
+	{
+		"Card":{
+			"name":"Rajesh",
+			"email":"rajesh.n@apssdc.in",
+			"mobile":6569656599,
+			"des":"SE"
+		},
+		
+		"career":
+			"I want to become an socialist,I want to change the education system with my knowledge ",
+		"edu":"i completed upto my under graduation(btech) at Andhra university with 9.0 Cgpa",
+		"tech":"c, c++,java,python,mysql,web designing with react",
+		"pro":"project on machine learning,python and I did workshops on python,machine learning,web designing",
+		"awards":"I received best student award in my college"
+		
+	
+
+	},
+	{
+		"Card":{
+			"name":"Surya",
+			"email":"surya.n@apssdc.in",
+			"mobile":6565666565,
+			"des":"sr.SE"
+		},
+		"career":"I want to become an engineer. I want eliminate gender descrimination and become a good socialist " ,
+
+		"edu":"i completed upto my under graduation(btech) at Banglore university with 8.6 Cgpa",
+		"tech":"c, c++,java,python,mysql,Full stack web development",
+		"pro":"project on data science,python and I did workshops on python,machine learning,web designing with react",
+		"awards":"I received best communicator award durin my internship"
+		
+	}
+	]
+}
